@@ -7,3 +7,5 @@ merge com uma tabela que eu retiro de dentro do nosso banco de dados da AWS S3 e
 atual e com isso eu posso deletar do DataFrame as cidades que mudaram de nome ou foram criadas e para facilitar utilizei um código para poder salvar estes dados no computador,
 também criei outra página que mostra uma tabela contendo o nome e o número desta tabela assim facilitando bastante a visualização, com tudo criado a única coisa que faltava era 
 colocar este site no ar, com algumas pesquisas descobri que existe uma plataforma chamada Heroku que eu conseguiria colocar este site no ar através de algumas linhas de comando. 
+
+https://request-ibge.herokuapp.com/
