@@ -1,4 +1,4 @@
-#API REQUEST IBGE COM STREAMLIT
+# API REQUEST IBGE COM STREAMLIT
 Projeto desenvolvido para empresa onde eu trabalho bright cities onde trabalho como estagiário em engenharia de dados, foi proposto que desenvolvesse uma aplicação para poder 
 pegar os dados do IBGE de uma forma fácil, analisando bastante descobri que o IBGE possui uma API que eu poderia utilizar, e com isso descobri a biblioteca streamlit que ela 
 cria uma espécie de um site para utilizar em ciência de dados que era exatamente o que eu estava procurando, conforme foi desenvolvido o aplicativo onde eu solicito a o usuário
